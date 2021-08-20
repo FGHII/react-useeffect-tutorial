@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+/* UseEffect Styles */
+
+.box-container {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	background-color: rgba(0, 0, 0, 0.486);
+	margin: 0 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #af111c;
+}
+
+.scary-text {
+	color: #af111c;
+	font-family: fantasy;
+}
+
+.animal-image {
+	width: 150px;
+	height: 150px;
+	margin-top: 10px;
+}
+
+/* UseEffect Styles */
